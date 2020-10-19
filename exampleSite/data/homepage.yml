@@ -5,7 +5,7 @@ banner:
   content: ''
   button:
     enable: true
-    label: Contact With Us
+    label: 联系我们
     link: "#"
 feature:
   enable: true
