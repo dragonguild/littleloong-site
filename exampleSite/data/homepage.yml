@@ -20,15 +20,6 @@ feature:
   - name: 系列验证工具
     icon: ti-alarm-clock
     content: 在群组机器人之后，基于代币验证的场景，我们会做一系列的工具，你会在很多地方看到这个小龙，它一直静静地做自己的本职工作，服务好大家。
-  - name: Value For Money
-    icon: ti-credit-card
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Faster Response
-    icon: ti-headphone-alt
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
-  - name: Cloud Support
-    icon: ti-cloud-up
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
 service:
   enable: true
   service_item:
