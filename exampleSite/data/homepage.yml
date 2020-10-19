@@ -72,5 +72,5 @@ call_to_action:
   content: 使用小龙人，创建最有凝聚力的Web3社区
   button:
     enable: true
-    label: Contact Us
+    label: 联系我们
     link: contact
