@@ -28,7 +28,7 @@ service:
     - images/service-1.png
     - images/service-2.png
     - images/service-3.png
-    content: 是小龙人的第一个尝试，接下来我们会逐步上线NFT的验证、组合代币的验证等功能，使其更全面、更强大。
+    content: "&nbsp;是小龙人的第一个尝试，接下来我们会逐步上线NFT的验证、组合代币的验证等功能，使其更全面、更强大。"
     button:
       enable: true
       label: Check it out
