@@ -67,10 +67,9 @@ screenshot:
   image: images/screenshot.svg
 call_to_action:
   enable: true
-  title: Ready to get started?
+  title: 准备好加入小龙人阵营了吗？
   image: images/cta.svg
-  content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-    eget amet, tempus eu at consecttur.
+  content: 使用小龙人，创建最有凝聚力的Web3社区
   button:
     enable: true
     label: Contact Us
