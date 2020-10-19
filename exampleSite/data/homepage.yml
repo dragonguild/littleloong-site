@@ -67,9 +67,9 @@ screenshot:
   image: images/screenshot.svg
 call_to_action:
   enable: true
-  title: 准备好加入小龙人阵营了吗？
+  title: 准备好了吗？
   image: images/cta.svg
-  content: 使用小龙人，创建最有凝聚力的Web3社区
+  content: 加入小龙人阵营<br>使用小龙人，创建最有凝聚力的Web3社区
   button:
     enable: true
     label: 联系我们
