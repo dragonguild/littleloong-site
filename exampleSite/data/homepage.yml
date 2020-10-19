@@ -9,11 +9,11 @@ banner:
     link: "#"
 feature:
   enable: true
-  title: Something You Need To Know
+  title: " 小龙人能做的事情"
   feature_item:
-  - name: Clean Code
+  - name: 微信群组机器人
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
+    content: 微信机器人是小龙人的第一个尝试，接下来我们会逐步上线NFT的验证、组合代币的验证等功能，使其更全面、更强大。
   - name: Object Oriented
     icon: ti-package
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil
