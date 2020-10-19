@@ -52,14 +52,10 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: It’s a team of experienced and skilled people with distributions
+  - title: 验证工具
     images:
     - images/service-2.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: 在群组机器人之后，基于代币验证的场景，我们会做一系列的工具，你会在很多地方看到这个小龙，它一直静静地做自己的本职工作，服务好大家。
     button:
       enable: true
       label: Check it out
