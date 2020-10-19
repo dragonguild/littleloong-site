@@ -44,14 +44,10 @@ service:
       enable: true
       label: Check it out
       link: "#"
-  - title: It is a privately owned Information and cyber security company
+  - title: 多平台社区机器人
     images:
     - images/service-1.png
-    content: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Consequat tristique
-      eget amet, tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet
-      sit vel consquat. consectetur adipiscing elit. Consequat tristique eget amet,
-      tempus eu at consecttur. Leo facilisi nunc viverra tellus. Ac laoreet sit vel
-      consquat.
+    content: 不止于微信，我们会向其他的平台去扩展，接触更友好的环境和更广泛的用户；也不止于人跟人，我们会尝试建立社区与社区之间的交流。
     button:
       enable: true
       label: Check it out
