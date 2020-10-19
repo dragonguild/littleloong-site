@@ -63,7 +63,7 @@ service:
       link: "#"
 screenshot:
   enable: true
-  title: 加入小龙人阵营，创建最有凝聚力的Web3社区
+  title: 加入小龙人阵营，创建最有凝聚力的社区
   image: images/screenshot.svg
 call_to_action:
   enable: true
