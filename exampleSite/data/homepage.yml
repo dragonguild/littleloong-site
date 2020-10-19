@@ -2,9 +2,7 @@
 banner:
   title: 小龙人 <br> Web3社区的守护者
   image: images/banner-art.svg
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim
-    maxime corporis cumque <br> totam aliquid nam sint inventore optio modi neque
-    laborum officiis necessitatibus
+  content: ''
   button:
     enable: true
     label: Contact With Us
