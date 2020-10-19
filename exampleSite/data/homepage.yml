@@ -63,7 +63,7 @@ service:
       link: "#"
 screenshot:
   enable: true
-  title: Experience the best <br> workflow with us
+  title: 与DragonGuild <br> 共同创造
   image: images/screenshot.svg
 call_to_action:
   enable: true
