@@ -21,7 +21,7 @@ feature:
     icon: ti-alarm-clock
     content: 在群组机器人之后，基于代币验证的场景，我们会做一系列的工具，你会在很多地方看到这个小龙，它一直静静地做自己的本职工作，服务好大家。
 service:
-  enable: true
+  enable: false
   service_item:
   - title: 微信群组机器人
     images:
