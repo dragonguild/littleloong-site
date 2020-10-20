@@ -22,17 +22,9 @@ URL = "#"
 name = "About Us"
 weight = 3
 [[menu.main]]
-URL = "faq"
-name = "FAQ"
-weight = 3
-[[menu.main]]
 URL = "contact"
-name = "联系"
+name = "About"
 weight = 2
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 1
 [[menu.product]]
 URL = "#"
 name = "Features"
