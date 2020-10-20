@@ -74,3 +74,8 @@ call_to_action:
     enable: true
     label: 联系我们
     link: contact
+menu:
+  main:
+    URL: faq
+    name: Home
+    weight: 1
