@@ -1,7 +1,7 @@
 ---
 banner:
   title: 小龙人 <br> Web3社区的守护者
-  image: images/banner-Llong3.png
+  image: images/banner-Llong4.png
   content: ''
   button:
     enable: true
@@ -78,4 +78,4 @@ menu:
   main:
     URL: faq
     name: Home
-    weight: 1
+    weight: "1"
