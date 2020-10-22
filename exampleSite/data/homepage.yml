@@ -2,7 +2,7 @@
 banner:
   title: 小龙人<br>Web3社区的守护者
   image: images/banner-Llong6.png
-  content: 当看到代币化的趋势逐渐蔓延时，我们先把目光放在了社区代币、个人代币上。这些代币是跟验证天然契合的，所有的社区行为都是基于代币，活动人都是代币的持有人，在其中各种场景做代币验证
+  content: 当看到代币化的趋势逐渐蔓延时，我们先把目光放在了社区代币、个人代币上。这些代币是跟验证天然契合的，所有的社区行为都是基于代币，活动人都是代币的持有人，小龙人便是在其中各种场景做代币验证的产品。
   button:
     enable: true
     label: 联系我们
@@ -59,7 +59,7 @@ call_to_action:
   image: images/cta.svg
   content: 加入小龙人阵营，创建最有凝聚力的Web3社区
   button:
-    enable: true
+    enable: false
     label: 联系我们
     link: contact
 menu:
