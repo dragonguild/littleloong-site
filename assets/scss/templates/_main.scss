@@ -1,7 +1,12 @@
 // banner
 .banner {
-  padding: 100px 0 50px;
+  padding: 100px 0 0 0 ;
 }
+
+.section::nth-child(1) {
+  padding: 0 0 0 0;
+}
+
 
 .feature-card {
   border-radius: 10px;
