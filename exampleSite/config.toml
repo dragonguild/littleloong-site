@@ -6,7 +6,7 @@ languageName = "En"
 paginate = "3"
 summaryLength = "15"
 theme = "bigspring"
-title = "Bigspring Hugo"
+title = "小龙人-littleloong"
 [markup.goldmark.renderer]
 unsafe = true
 [params]
